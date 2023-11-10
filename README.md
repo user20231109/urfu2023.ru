@@ -9,6 +9,6 @@
 * опубликовать проект при помощи github pages
 * добавить домен {имяпользователя}.urfu2023.ru в настройки github pages
 
-Пример сайта с практики user20231109.urfu2023.ru
+Пример сайта с практики http://user20231109.urfu2023.ru
 
 https://www.reg.ru/blog/poshagovaya-instruktsiya-kak-sdelat-besplatnyj-sajt-na-github-pages/
